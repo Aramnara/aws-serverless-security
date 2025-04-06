@@ -20,3 +20,10 @@ This project secures a serverless AWS application using a zero-trust model. Buil
 - Peter: Threat Detection & Logging
 - Gagen: Compliance & Data Protection
 
+## Role-Based Templates
+- Arun: `lambda/templates/handler_api_template.py`
+- Peter: `lambda/templates/logging_cloudwatch_template.py`
+- Gagen: `lambda/templates/secrets_manager_template.py`
+
+Each team member should use these as a base and implement/test in their own module.
+
