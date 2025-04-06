@@ -27,3 +27,6 @@ This project secures a serverless AWS application using a zero-trust model. Buil
 
 Each team member should use these as a base and implement/test in their own module.
 
+### AWS Access
+Each team member will be provisioned with IAM credentials for a shared AWS environment. Use these credentials to authenticate via the AWS CLI (`aws configure`) and begin deploying/testing resources in your assigned modules.
+
