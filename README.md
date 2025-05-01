@@ -7,7 +7,7 @@ This project demonstrates how to securely deploy a serverless application in AWS
 The solution showcases a RESTful API endpoint powered by AWS Lambda and protected by API Gateway, AWS WAFv2, Secrets Manager, IAM, and Security Hub.
 
 📐 Architecture Diagram
-(Add image here after diagram is generated)
+![Architecture Diagram](diagram.png)
 
 🔧 Technologies Used
 AWS Lambda – Stateless compute for request handling
