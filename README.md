@@ -56,7 +56,8 @@ terraform apply
 
 📎 Testing the API
 Use the generated API URL after terraform apply. Example:
-curl -H "x-api-key: <your-api-key>" "https://<your-api-id>.execute-api.us-east-1.amazonaws.com/prod/hello?username=Anthony"
+curl -H "x-api-key: F3sm8qjr081epHHE3xwMS4urquRPWl875HelO1BY" \
+"https://3vcjvm73l1.execute-api.us-east-1.amazonaws.com/prod/hello?username=Anthony"
 
 ✅ You should receive a message like:
 
